@@ -1,3 +1,1 @@
-[![kookaburraCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=KookaburraCoder&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Had to nuke most of my projects, to clean things up and now my grade is a C hahaha....
+Going to start from scratch, build up a strong portfolio
